@@ -1,0 +1,46 @@
+.image{
+    text-align: center;
+}
+.image img{
+    height: 100px;
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 70%;
+}
+.name{
+    text-align: left;
+    margin-top: 13px;
+}
+.name h2{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.name p{
+    font-size: 18px;
+}
+.contact-info{
+    text-align: right;
+    margin-top: 20px;
+}
+.contact-info p{
+    padding: 2px;
+    font-size: 18px;
+}
+
+
+/*Main starts*/
+
+.personal-info h3{
+    font-size: 20px;
+}
+.edu-title h3{
+    font-size: 20px;
+}
+
+
+
+/*Foooter */
+.footer-design-left p{
+    display: inline-block;
+    padding: 0px 16px;
+}
